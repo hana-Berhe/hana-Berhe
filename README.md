@@ -20,11 +20,11 @@ Before software, I spent ten years leading technical teams and running a busines
 
 ## 🛠 Tech stack
 
-**Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS
-**Backend:** Node.js · Express · REST APIs · JWT authentication
-**AI:** Gemini API · Retrieval-augmented generation (RAG) · Semantic search
-**Database:** MySQL
-**Tools:** Git · GitHub · Postman · Vercel · Render
+- **Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS
+- **Backend:** Node.js · Express · REST APIs · JWT authentication
+- **AI:** Gemini API · Retrieval-augmented generation (RAG) · Semantic search
+- **Database:** MySQL
+- **Tools:** Git · GitHub · Postman · Vercel · Render
 
 ---
 
